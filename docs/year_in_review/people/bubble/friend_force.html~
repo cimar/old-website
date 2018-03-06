@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Friend Bubbles</title>
+    <script type="text/javascript" src="../../d3.v2.js"></script>
+    <link type="text/css" rel="stylesheet" href="bubble.css"/>
+    <h1>People I Lived With When I Was 23</h1>
+    <p> (all of them) </p>
+  </head>
+  <body>
+    <div id="chart"></div>
+<form>
+  <label><input type="checkbox"> Separate by house</label>
+</form>
+    <script type="text/javascript" src="friend.js"></script>
+  </body>
+</html>

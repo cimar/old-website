@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Rosie the Writer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-sortable.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="./index.html"><h1>ROSIE THE  _________.</h1></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+	      <li class="active"><a href="./writer.html"><h2>WRITER</h2></a></li>
+              <li><a href="./designer.html"><h2>DESIGNER</h2></a></li>
+              <li><a href="./photo.html"><h2>PHOTOGRAPHER</h2></a></li>
+              <li><a href="./musician.html"><h2>MUSICIAN</h2></a></li>
+	      <li><a href="./index.html#about">ABOUT/CONTACT</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+    <div class="container">
+	<hr>
+	<section id="journalism">
+	<div class="page-header">
+		<h1>CLIPS</h1>
+	</div>
+	<div class="row">
+		<div class="span6">
+		<p>I'm a journalist by trade and training, and chances are good that you're an editor who found this site when I pitched you.  To the right you'll find a rotation of a diversity of clips.  Below is as much of my ouvre I currently care to share in a sortable table -- the idea being that I've done many kinds of journalism, and you might be interested in only a particular kind.  For example, if you're interested in my datavisualization work, you should sort by <b>Multimedia Credit</b> and look at the chunk of clips with datavisualizations (or look at the <b><a href="./designer.html#data">data section of my Design page</a></b>).  Or if you're interested in my longer-form writing and reporting, you can click the <b>Word Count</b> header to sort by article length.  For pieces listed with a word count of zero, I only claim multimedia credit.  In many cases the reporting load was shared.</p>
+		</div>
+		<div class="span6">
+			<div id="myCarousel" class="carousel slide"">
+    <!-- Carousel items -->
+			    <div class="carousel-inner">
+				    <div class="active item">
+					<a href="http://maplight.org/content/73409" target="_blank" class="thumbnail">
+						<img src="assets/img/write/rot1.png" alt=""/>
+						<div class="carousel-caption">
+						<p>Toss-up Senate Races are Key Targets for Dark Money Groups -- MapLight (Map: Rosie Cima/MapLight)</p>
+						</div>
+					</a>
+				    </div>
+				    <div class="item">
+					<a href="http://maplight.org/content/73261" target="_blank" class="thumbnail">
+						<img src="assets/img/write/rot2.png" alt=""/>
+						<div class="carousel-caption">
+						<p>California Passes Only a Fraction of its Fracking Bills -- MapLight (Photo: WCN24/Flickr)</p>
+						</div>						
+					</a>
+				    </div>
+				    <div class="item">
+					<a href="www.eastbayexpress.com/oakland/matthew-melton-sober-serious-but-still-scuzzy/Content?oid=3467902" target="_blank" class="thumbnail">
+						<img src="assets/img/write/rot3.png" alt=""/>
+						<div class="carousel-caption">
+						<p>Matthew Melton: Sober, Serious, but Still Scuzzy -- East Bay Express (Photo: Matthew Reamer)</p>
+						</div>	
+					</a>
+				    </div>
+				    <div class="item">
+					<a href="http://www.sfgate.com/news/article/Sit-lie-law-primarily-enforced-in-Haight-3763521.php#photo-3286315" target="blank" class="thumbnail">
+						<img src="assets/img/write/rot5.png" alt=""/>
+						<div class="carousel-caption">
+						<p>Sit/lie law primarily enforced in the Haight -- San Francisco Chronicle (Map: Rosie Cima)</p>
+						</div>
+					</a>
+				    </div>
+				    <div class="item">
+					<a href="http://blog.sfgate.com/inthepeninsula/2012/03/26/peninsula-small-businesses-yelping-about-yelp%E2%80%99s-mysterious-algorithm/" target="_blank" class="thumbnail">
+						<img src="assets/img/write/rot4.png" alt=""/>
+						<div class="carousel-caption">
+						<p>Peninsula small businesses yelping about Yelp's mysterious algorithm -- SFGate (Illustration: Yelp)</p>
+						</div>
+					</a>
+				    </div>
+
+			    </div>
+    <!-- Carousel nav -->
+			    <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+			    <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+    			</div>
+		</div>
+	</div> <!-- row -->
+	<div class="row">
+		<div class="span12">
+			
+		</div>
+	</div>
+	<div class="row">
+		<div class="span12">
+		<table class="table table-bordered sortable">
+			<thead>
+				<tr>
+				<th>Headline (link)</th>
+				<th data-defaultsort="desc">Date</th>
+				<th>Wordcount</th>
+				<th>Multimedia Credit</th>
+				<th>Outlet</th>
+				</tr>
+			</thead>
+			<tbody>
+
+<!-- insert table code generated from spreadsheet here -->
+
+<tr><td><a href="http://maplight.org/content/73409") target=”_blank”>	Toss-Up Senate Races Are Key Targets for Dark Money	</a></td><td data-dateformat=”MM/DD/YY”>	2/21/14	</td><td>	0	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73416" target=”_blank”>	Dark Money Groups Spent More on Toss-Up House Races in 2012	</a></td><td data-dateformat=”MM/DD/YY”>	3/10/14	</td><td>	0	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73385" target=”_blank”>	State of Dark Money: In Nevada, the Candidate With the Most Dark Money Won Senate Seat	</a></td><td data-dateformat=”MM/DD/YY”>	2/28/14	</td><td>	0	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73410" target=”_blank”>	"Social Welfare" Groups Dominate Dark Money Spending on Congressional Elections	</a></td><td data-dateformat=”MM/DD/YY”>	2/19/14	</td><td>	0	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73337" target=”_blank”>	Big Ag Interests Flood Washington GMO Initiative With Opposition Money — Echoes California Prop. 37	</a></td><td data-dateformat=”MM/DD/YY”>	9/17/13	</td><td>	0	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73318" target=”_blank”>	The Cost of a Seat in the California State Legislature	</a></td><td data-dateformat=”MM/DD/YY”>	12/11/13	</td><td>	146	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73283" target=”_blank”>	Washington State GMO Labeling Initiative is Round Two for CA Prop. 37 Donors	</a></td><td data-dateformat=”MM/DD/YY”>	8/13/13	</td><td>	447	</td><td>	Dataviz	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73279" target=”_blank”>	CA Prop. 8's Top 10 Supporting and Opposing Contributors	</a></td><td data-dateformat=”MM/DD/YY”>	6/25/13	</td><td>	310	</td><td>	N/A	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73261" target=”_blank”>	California Passes Only a Fraction of Its Fracking Bills	</a></td><td data-dateformat=”MM/DD/YY”>	6/5/13	</td><td>	443	</td><td>	N/A	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://maplight.org/content/73249" target=”_blank”>	Cal-Access Database Available for Download by Labor Day, Says California Secretary of State	</a></td><td data-dateformat=”MM/DD/YY”>	5/20/13	</td><td>	522	</td><td>	N/A	</td><td>	MapLight	</td></tr>
+<tr><td><a href="http://www.eastbayexpress.com/oakland/matthew-melton-sober-serious-but-still-scuzzy/Content?oid=3467902" target=”_blank”>	Matthew Melton: Sober, Serious, But Still Scuzzy	</a></td><td data-dateformat=”MM/DD/YY”>	2/20/13	</td><td>	1104	</td><td>	N/A	</td><td>	East Bay Express	</td></tr>
+<tr><td><a href="http://www.eastbayexpress.com/oakland/beck-gets-the-mcsweeneys-treatment/Content?oid=3417040" target=”_blank”>	Beck Gets the McSweeney's Treatment	</a></td><td data-dateformat=”MM/DD/YY”>	12/19/12	</td><td>	1045	</td><td>	N/A	</td><td>	East Bay Express	</td></tr>
+<tr><td><a href="http://www.eastbayexpress.com/oakland/oneida/Content?oid=3395924" target=”_blank”>	Oneida – A List of the Burning Mountains (album review)	</a></td><td data-dateformat=”MM/DD/YY”>	11/21/12	</td><td>	277	</td><td>	N/A	</td><td>	East Bay Express	</td></tr>
+<tr><td><a href="http://www.slate.com/blogs/future_tense/2012/09/18/theglint_what_the_failure_of_the_group_home_for_idealists_says_about_silicon_valley_.html" target=”_blank”>	What the Failure of TheGlint, a Group Home for Idealist Techies, Says About Silicon Valley	</a></td><td data-dateformat=”MM/DD/YY”>	9/18/12	</td><td>	576	</td><td>	N/A	</td><td>	Slate	</td></tr>
+<tr><td><a href="http://www.sfgate.com/news/article/Sit-lie-law-primarily-enforced-in-Haight-3763521.php#photo-3286315" target=”_blank”>	Sit/lie law primarily enforced in the Haight	</a></td><td data-dateformat=”MM/DD/YY”>	8/3/12	</td><td>	0	</td><td>	Dataviz	</td><td>	San Francisco Chronicle	</td></tr>
+<tr><td><a href="http://www.sfgate.com/opinion/article/San-Francisco-s-urban-tech-boom-3850039.php#photo-3423564" target=”_blank”>	San Francisco's urban tech boom	</a></td><td data-dateformat=”MM/DD/YY”>	9/8/12	</td><td>	0	</td><td>	Dataviz	</td><td>	San Francisco Chronicle	</td></tr>
+<tr><td><a href="http://blog.sfgate.com/inthepeninsula/2011/11/16/educator-brings-shop-culture-back-into-schools-with-digital-%E2%80%98fablab%E2%80%99/" target=”_blank”>	Educator brings shop culture back Into schools	</a></td><td data-dateformat=”MM/DD/YY”>	11/16/11	</td><td>	1419	</td><td>	Photo, Video	</td><td>	SFGate	</td></tr>
+<tr><td><a href="http://www.kqed.org/news/story/2012/02/09/84271/silicon_valley_divided_new_report_shows_tech_sector_growing?source=peninsula+press&category=bay+area" target=”_blank”>	Silicon Valley divided – new report shows tech sector growing, middle class hurting	</a></td><td data-dateformat=”MM/DD/YY”>	2/9/12	</td><td>	819	</td><td>	Dataviz	</td><td>	KQED	</td></tr>
+<tr><td><a href="http://blog.sfgate.com/inthepeninsula/2012/02/22/developers-and-city-disagree-downtown-palo-alto-lot-%E2%80%98in-flux%E2%80%99-for-a-year/" target=”_blank”>	Developers and city disagree; downtown lot in 'flux' for a year	</a></td><td data-dateformat=”MM/DD/YY”>	2/22/12	</td><td>	1306	</td><td>	Photo	</td><td>	SFGate	</td></tr>
+<tr><td><a href="http://peninsulapress.com/2012/03/13/mother-and-son-entrepreneurs-share-their-secrets-to-successful-startups/" target=”_blank”>	Mother and son entrepreneurs share their secrets to successful startups	</a></td><td data-dateformat=”MM/DD/YY”>	3/13/12	</td><td>	815	</td><td>	Photo	</td><td>	Peninsula Press	</td></tr>
+<tr><td><a href="http://blog.sfgate.com/inthepeninsula/2012/03/26/peninsula-small-businesses-yelping-about-yelp%E2%80%99s-mysterious-algorithm/" target=”_blank”>	Peninsula small businesses yelping about Yelp's mysterious algorithm	</a></td><td data-dateformat=”MM/DD/YY”>	3/25/12	</td><td>	1653	</td><td>	Photo	</td><td>	SFGate	</td></tr>
+<tr><td><a href="http://alumni.stanford.edu/get/page/magazine/article/?article_id=47701" target=”_blank”>	How much recycling actually gets recycled	</a></td><td data-dateformat=”MM/DD/YY”>	3/20/12	</td><td>	662	</td><td>	Dataviz	</td><td>	Stanford Magazine	</td></tr>
+<tr><td><a href="http://blog.sfgate.com/inthepeninsula/2012/01/07/window-opens-for-mavericks-surf-contest-causing-big-waves-for-small-town-photos/" target=”_blank”>	Window opens for Mavericks surf contest, causing big waves for a small town	</a></td><td data-dateformat=”MM/DD/YY”>	1/7/12	</td><td>	403	</td><td>	Photo, Video	</td><td>	SFGate	</td></tr>
+<tr><td><a href="http://www.stanforddaily.com/2011/01/28/oh-sweet-nuthin%E2%80%99-standard-time/" target=”_blank”>	Oh Sweet Nuthin': Standard Time	</a></td><td data-dateformat=”MM/DD/YY”>	1/28/11	</td><td>	832	</td><td>	N/A	</td><td>	Stanford Daily	</td></tr>
+<tr><td><a href="http://www.stanforddaily.com/2010/07/08/oh-sweet-nuthin-peep-psychology/" target=”_blank”>	Oh Sweet Nuthin': Peep Psychology	</a></td><td data-dateformat=”MM/DD/YY”>	7/8/10	</td><td>	787	</td><td>	N/A	</td><td>	Stanford Daily	</td></tr>
+<tr><td><a href="http://www.stanforddaily.com/2010/10/08/oh-sweet-nuthin-theolinguistess/" target=”_blank”>	Oh Sweet Nuthin': Theolinguistess	</a></td><td data-dateformat=”MM/DD/YY”>	10/8/10	</td><td>	693	</td><td>	N/A	</td><td>	Stanford Daily	</td></tr>
+
+
+<!-- end generated code -->
+
+			</tbody>
+		</table>
+		</div>
+	</div> <!--row-->
+    </section>
+    <section id="creative">
+	<hr>
+	<div class="page-header">
+		<h1>CREATIVE</h1>
+	</div>
+	<div class="row">
+		<div class="span8">
+		<p>I also use the written word for purposes external to journalism.  Among them: poems, essays and short stories.  Here are two poems published with the student literary journal, The Leland Quarterly: <a href="http://lelandquarterly.com/2010/11/30/plea/" target="_blank">Plea (Summer 2010)</a> and <a href="http://lelandquarterly.com/2011/12/05/estenopeica/" target="_blank">Estenopeica (Fall 2011)</a>.  I was also honored this year to have a short story, 'Going Solo', published in the Fall 2013 edition of <i>Zyzzyva</i>.</p>
+		</div>
+		<div class="span4">
+			<ul class="thumbnails">
+				<li class="span4">
+					<a href="" class="thumbnail">
+						<img src="assets/img/estenopeica.jpg">
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div><!-- row -->
+    </section>
+    </div><!-- container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+    <script src="assets/js/jquery.js"></script>
+ 
+    <script src="assets/js/moment.min.js"></script>    
+    <script src="assets/js/bootstrap-sortable.js"></script>
+
+
+   <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
+    </body>
+</html>

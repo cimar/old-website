@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Rosie the Designer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+	<link rel="stylesheet" href="assets/css/bootstrap_for_lightbox.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- Le styles -->
+<!--    <link href="assets/css/bootstrap.css" rel="stylesheet"> -->
+    <link href="assets/css/bootstrap-lightbox.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="./index.html"><h1>ROSIE THE  _________.</h1></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+	      <li><a href="./writer.html"><h2>WRITER</h2></a></li>
+              <li class="active"><a href="./designer.html"><h2>DESIGNER</h2></a></li>
+              <li><a href="./photo.html"><h2>PHOTOGRAPHER</h2></a></li>
+              <li><a href="./musician.html"><h2>MUSICIAN</h2></a></li>
+	      <li><a href="./index.html#about">ABOUT/CONTACT</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+    <div class="container" style="margin-top:30px">
+	<div class="row">
+	    <div class="span6">
+		<ul class="thumbnails">
+			<li class="span6">
+			    <a href="#data" class="thumbnail">
+				<!--<img src="http://placehold.it/550x450" alt=""/>-->
+				<img src="assets/img/design/darkm.png" />
+			    </a>
+			</li>
+		</ul>
+		<div style="text-align:center;">
+			<h2>{ DATA, INFO, INTERACTIVE }</h2>
+			<p>My more <b>hackerly</b> efforts as <b>journalist</b>, 
+			<b>ux designer</b>, and <b>hobbyist</b>.</p>
+		</div>
+	    </div>
+	    <div class="span6">
+		<ul class="thumbnails">
+			<li class="span6">
+			    <a href="#illustration" class="thumbnail">
+				<!--<img src="http://placehold.it/550x450" alt=""/>-->
+				<img src="assets/img/design/beltane.png" />
+			    </a>
+			</li>
+		</ul>
+		<div style="text-align:center;">
+			<h2>{ ILLUSTRATION }</h2>
+        	     	<b>Pretty things</b> I've made for <b>love</b> and <b>money</b>.  
+		</div>
+	    </div>
+        </div> <!-- row -->
+
+	<div class="row">
+   	<div class="span6">
+  	</div>
+
+   </div> <!-- container -->
+
+   <div class="container">
+   <hr>
+
+   <section id="data">
+   <div />
+   <div class="page-header"> 
+	<h2>DATA, INFO, INTERACTIVE <small>-- DATAVISUALIZATION, WEB DEVELOPMENT, AND OTHER PROJECTS</small></h2>
+   </div>
+   <div class="row">
+	<div class="span6">
+		<ul class="thumbnails">
+			<li class="span2">
+				<a href="http://maplight.org/content/73409" target="_blank" class="thumbnail">
+					<img src="assets/img/design/darkm_s_thumb.png" alt="headline" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://maplight.org/content/73416" target="_blank" class="thumbnail">
+					<img src="assets/img/design/darkm_h_thumb.png" alt="headline" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://maplight.org/content/73385" target="_blank" class="thumbnail">
+					<img src="assets/img/design/darkm_nv.png" alt="headline" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://maplight.org/content/73410" target="_blank" class="thumbnail">
+					<img src="assets/img/design/darkm_501.png" alt="" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://maplight.org/content/73318" target="_blank" class="thumbnail">
+					<img src="assets/img/design/cost.png" alt="" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="#" class="thumbnail">
+					<img src="assets/img/design/gmo.png" alt="" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://www.sfgate.com/news/article/Sit-lie-law-primarily-enforced-in-Haight-3763521.php#photo-3286315" target="_blank" class="thumbnail">
+					<img src="assets/img/design/haight.png" alt="" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://www.sfgate.com/opinion/article/San-Francisco-s-urban-tech-boom-3850039.php#photo-3423564" target="_blank" class="thumbnail">
+					<img src="assets/img/design/creative.png" alt="" />
+				</a>
+			</li>
+			<li class="span2">
+				<a href="http://www.kqed.org/news/story/2012/02/09/84271/silicon_valley_divided_new_report_shows_tech_sector_growing?source=peninsula+press&category=bay+area" target="_blank" class="thumbnail">
+					<img src="assets/img/design/sv.png" alt="" />
+				</a>
+			</li>
+	</div>
+	<div class="span6">
+		<h3>DATA JOURNALISM CLIPS</h3>
+		<p>Click any image in the array to the left to see the full graphic and its original context.  The San Francisco Chronicle tends to bury its graphics in slideshows.  More clips below: 
+			<h4><a href="http://maplight.org/content/73283">WA GMO Labeling Initiative is Round Two for CA Prop. 37 Donors</a> <SMALL>MapLight</SMALL></h4>
+			<h4><a href="http://maplight.org/content/73279">CA Prop. 8's Top 10 Supporting and Opposing Contributors</a> <SMALL>MapLight</SMALL></h4>
+			<h4><a href="http://maplight.org/content/73261">California Passes Only a Fraction of its Fracking Bills</a> <SMALL>MapLight</SMALL></h4><br /><br />
+
+		<h3>MAPLIGHT POWER SEARCH</h3>
+			<p>After the California Secretary of State made all California campaign contribution data available as a bulk download, I worked with Leon Smith and the MapLight data team to design and build this search interface.  The project was an extension of one started at a Google Hackathon and gifted to MapLight, and is built mostly in <b>Javascript</b> and <b>Java</b> on <b>Play Framework</b>, September 2013.</p>
+		<ul class="thumbnails">
+			<li class="span6">
+				<a href="http://maplight.org/content/maplight-power-search" target="_blank" class="thumbnail">
+					<img src="assets/img/design/pwr_search.png" alt="" />
+				</a>
+			</li>
+		</ul>
+	</div>
+	<hr>
+	</div>
+	<hr>
+	<div class="row">
+	<div class="span4">
+		<h3>TWENTY-THREE: A LOOK BACK IN DATA</h3>
+		<p>When I turned 24 I gifted myself a suite of datavisualizations, about the preceding year's more prosaic events: what books I read and who I lived with (at 23 I lived two co-ops, and had many housemates).  I used <b>Tableau</b> and <b>D3</b> to make the visualizations, and <b>Bootstrap</b> to package them, February 2013.</p>
+	</div>
+	<ul class="thumbnails">
+		<li class="span6">
+			<a href="year_in_review/index.html" target="_blank" class="thumbnail">
+			<img src="assets/img/design/23.png" />
+			</a>
+		</li>
+		<li class="span2">
+			<a href="year_in_review/books/index.html" target="_blank" class="thumbnail">
+			<img src="assets/img/design/pagetime.png" />
+			</a>
+		</li>
+		<li class="span2">
+			<a href="year_in_review/books/index.html" target="_blank" class="thumbnail">
+			<img src="assets/img/design/ithaka.png" />
+			</a>
+		</li>
+	</ul>
+	</div> <!-- row -->
+	<hr>
+	<div class="row">
+		<div class="span6">
+		<ul class="thumbnails">
+			<li class="span6">
+				<a href="" target="_blank" class="thumbnail">
+					<img src="assets/img/design/shistory.png" />
+				</a>
+			</li>
+		</ul>
+		</div>
+		<div class="span6"> <h3>SPATIAL HISTORY: THE PLAYS OF FRANCA JUNIOR</h3><p>A network visualization of the characters within plays by the Brazilian playwright <b>Franca Junior</b> and the dialogue between them.  Did much of the design & coding on this piece, working under <b>Frederico Freitas</b> and <b>Zephyr Frank</b>. Built using <b>Gephi</b> and <b>Flash</b>, Summer, 2011.</p>
+		</div>
+	</div>
+
+
+
+
+	
+   </section>
+   <section id="illustration">
+	<hr>
+	<div class="page-header"><h2>ILLUSTRATIONS <small>-- POSTERS, LOGOS, FLYERS, ADVERTISING</small></h2></div>
+	<div class="row">
+		<div class="span6">
+			<p>Here's a smattering of my work in graphic design over the past several years.</p>
+		</div>
+	</div> <!-- row -->
+	<div class="row">
+		<div class="span12">
+			<ul class="thumbnails">
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_orange" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201312_thumb.png" alt="MAGIC ORANGES">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_jake" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201306_thumb.png" alt="Wanderlove">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_todd" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201206_thumb.png" alt="SymSys Shirt 2012">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_nick" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201107_thumb.png" alt="Summer House Party Invitation">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_ramon" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201106_thumb.png" alt="SymSys Shirt 2011">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_laurel" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201105_thumb.png" alt="Beltane Concert Flyer 2012">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_life" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201105a_thumb.png" alt="Stanford Life Study Logo">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_milk" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201103_thumb.png" alt="Milkpail Newspaper Ad">
+					</a>
+				</li>
+
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_milka" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201103a_thumb.png" alt="Milkpail Newspaper Coupon">
+					</a>
+				</li>
+
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_milkb" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201103b_thumb.png" alt="Milkpail Newspaper Ad">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_stacey" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201102a_thumb.png" alt="Jefferson Airplane-themed Synergy House Party Flyer">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_andi" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201102_thumb.png" alt="Andi Harrington Concert Flyer">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_turing" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201012_thumb.png" alt="Symbolic Systems Holiday Party Flyer">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_dali" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201007_thumb.png" alt="Salvador Dali Mural">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_woodstock" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201005_thumb.png" alt="Beltane Concert Flyer">
+					</a>
+				</li>
+				<li class="span3">
+					<a data-toggle="lightbox" href="#lightbox_disney" class="thumbnail">
+						<img src="assets/img/design/ill/thumbs/201002_thumb.png" alt="Disney Themed Synergy House Party Flyer">
+					</a>
+				</li>
+			</ul>
+		</div>
+   </div> <!-- row -->
+
+
+
+		<div id="lightbox_orange" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201312.png">
+					<div class="lightbox-caption"><p>Typography poster (20x30 in) I made of and for my brother for Christmas.  Photo by me, poem written by Rachel Hamburg extemporaneously at a Halloween party in 2011.  Made in GIMP and Inkscape.  <b>December 2013</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_jake" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201306.jpg">
+					<div class="lightbox-caption"><p>Eflyer promoting Jake Wachtel's crowdfunding campaign for his album 'Wanderlove'.  Photo of Jake, by me, at Burning Man.  He taught people how to ukulele and got so much swag.  Made in GIMP and Inkscape.  <b>June 2013</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_todd" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201206.png">
+					<div class="lightbox-caption"><p>Symbolic Systems class t-shirt contest submission, 2012.  Intended a joke and homage to Associate Director Todd Davies, we actually ended up printing a small run of these just for the Advising Fellows.  Made with Illustrator and Photoshop.  <b>June 2012</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_nick" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201107.jpg">
+					<div class="lightbox-caption"><p>Invitation to a party at Ithaka Co-op.  Photos also by me.  Made with GIMP.  <b>July 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_ramon" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201106.jpg">
+					<div class="lightbox-caption"><p>Symbolic Systems class t-shirt design, 2011.  Based on a Ramon y Cajal sketch of a neuron, and the Symbolic Systems logo (which is itself based on modal logic notation).  Definitely still in my wardrobe.  Made with Illustrator.  <b>June 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_life" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201105a.jpg">
+					<div class="lightbox-caption"><p>Submission to a logo contest for "The Stanford Life Study" -- a planned longitudinal study of incoming Stanford Freshman through their lives.  The experiment either was never run, or it went underground and they gave up on branding it.  Made in Illustrator.  <b>May 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_laurel" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201105.png">
+					<div class="lightbox-caption"><p>Flyer for Beltane Music Festival, 2011.  Photo by me, photo projected onto the bodies in the photo also by me, taken at Beltane 2010.  Made in Photoshop.  <b>May 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_milk" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201103.jpg">
+					<div class="lightbox-caption"><p>Milk Pail Market print advertisement in the Stanford Daily.  My senior year I took a position in the paper's advertising department as a structured outlet for my impulse to make pretty things.  The Milkpail Market account was my biggest assignment.  The three designs I produced for them are on this site.  <b>March 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_milka" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201103a.jpg">
+					<div class="lightbox-caption"><p>Milk Pail Market print advertisement in the Stanford Daily.  My senior year I took a position in the paper's advertising department as a structured outlet for my impulse to make pretty things.  The Milkpail Market account was my biggest assignment.  The three designs I produced for them are on this site.  <b>March 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_milkb" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201103b.jpg">
+					<div class="lightbox-caption"><p>Milk Pail Market print advertisement in the Stanford Daily.  My senior year I took a position in the paper's advertising department as a structured outlet for my impulse to make pretty things.  The Milkpail Market account was my biggest assignment.  The three designs I produced for them are on this site.  <b>March 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_stacey" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201102a.jpg">
+					<div class="lightbox-caption"><p>Flyer for a Jefferson Airplane-themed party at Synergy House Co-op on Stanford Campus.  Punny party themes are a campus tradition (I assume on most campuses), hence the "Jeffersyn".  <b>February 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_andi" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201102.jpg">
+					<div class="lightbox-caption"><p>Flyer for an Andi Harrington concert on campus.  I did not take this photo, although it looked terrible before I happened to it.  Made in Photoshop.<b>February 2011</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_turing" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201012.jpg">
+					<div class="lightbox-caption"><p>Flyer for the annual Symbolic Systems holiday party.  We reused this the next year, for obvious reasons.  Symbolic Systems was maybe my favorite culture to design within, for obvious reasons.  Made in Illustrator.  <b>December 2010</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_dali" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201007.jpg">
+					<div class="lightbox-caption"><p>Chalk mural reproduction of Salvador Dali's "Figure at a Window" (1925).  Part of a series.  I'd identify my collaborator but this little stunt made the campus police crawl as an act of vandalism, "not believed to be gang-related or hate-motivated."  Chalk on cement.  How it's done.  <b>July 2010</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_woodstock" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201005.jpg">
+					<div class="lightbox-caption"><p>Flyer for Beltane Music Festival, 2012.  Inspiration taken from the Woodstock poster.  Made in Illustrator.  <b>May 2010</b></p></div>
+				</div>
+			</div>
+		</div>
+		<div id="lightbox_disney" class="lightbox fade"  tabindex="-1" role="dialog" aria-hidden="true">
+			<div class='lightbox-dialog'>
+				<div class='lightbox-content'>
+					<img src="assets/img/design/ill/201002.jpg">
+					<div class="lightbox-caption"><p>Flyer for a Disney-themed party at Synergy House.  I think I did a good job of capturing the "unrealistic expectations of love" tagline, visually.  Belle is my favorite princess <b>February 2010</b></p></div>
+				</div>
+			</div>
+		</div>
+	
+</section>
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/scale.fix.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/bootstrap-lightbox.min.js"></script>
+	<script>
+	$(document).ready(function()
+	{
+		prettyPrint();
+	});
+	</script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-38085002-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		 })();
+	</script>
+</body>
+</html>

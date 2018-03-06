@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Friend Bubbles</title>
+    <link href="../../assets/css/bootstrap_alt.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+	background-color: #000000;
+	background-size: cover;
+	background-position: bottom left;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+      }
+    </style>
+
+
+    <script type="text/javascript" src="../d3.v2.js"></script>
+    <link type="text/css" rel="stylesheet" href="bubble.css"/>
+    
+  </head>
+  <body>
+
+<div class="container">
+<div class="row">
+	<div class="span12" style="text-align:center">
+<a href="">home</a>::<a href=""
+<hr />
+<p>A bubble chart and a timeline representing everyone I shared a house with when I was 23.  The timeline explains the weighting of the nodes: when you look at my housemates by the raw numbers, you get a perfect gender balance, but when you weight those numbers by the amount of time living together, it skews male.  This skews even farther we count a month spent as actual roommates as two months, as all three of my roommates that year were dudes.</p>
+	</div>
+</div>
+<div class="row">
+<div class="span3">
+    <div id="chart" width="100%"></div>
+<form>
+  <label style="color:#fff"><input type="checkbox"> Separate by house</label>
+</form>
+    <script type="text/javascript" src="friend_2.js"></script>
+</div>
+<div class="span9">
+<script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/viz_v1.js"></script><div class="tableauPlaceholder" style="width:110%; height:700px;"><noscript><a href="#"><img alt="People I lived with when I was 23 " src="http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;ro&#47;roommates_23&#47;Dashboard1&#47;1_rss.png" style="border: none" /></a></noscript><object class="tableauViz" width="110%" height="700" style="display:none;"><param name="host_url" value="http%3A%2F%2Fpublic.tableausoftware.com%2F" /><param name="site_root" value="" /><param name="name" value="roommates_23&#47;Dashboard1" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;ro&#47;roommates_23&#47;Dashboard1&#47;1.png" /><param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /></object></div><div style="width:100%;height:22px;padding:0px 0px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;"><div style="float:right;"><a href="http://www.tableausoftware.com/public?ref=http://public.tableausoftware.com/views/roommates_23/Dashboard1" target="_blank">Powered by Tableau</a></div></div>
+</div>
+</div> <!--end row -->
+</div> <!--end container -->
+  </body>
+</html>

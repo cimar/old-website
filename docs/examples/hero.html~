@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Rosie Cima, portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">ROSIE CIMA</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about.html">Contact</a></li>
+              <li><a href="#dnd.html">Data/Design</a></li>
+	      <li><a href="#photonm.html">Photo/Multi</a></li>
+	      <li><a href="#words.html">Words</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+	<img src="../assets/img/signature.svg" width="716" height="126">
+        <!---FIGURE OUT HOW TO INDENT THIS LINE-->
+        <!--<h3><div width="716"> </div>have you ever seen a whale with a polkadot tail?</h3>-->
+        <!--<p><a class="btn btn-primary btn-large" href="about.html" float="right">Learn more &raquo;</a></p> -->
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="span4">
+           <h2><img class="bs-icon" src="../assets/img/nounproject/np_icon_data2.svg"> <a href="#dnd">DATA & DESIGN</a></h2>
+           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <!-- <p><a class="btn" href="dnd.html">View details &raquo;</a></p> -->
+        </div>
+        <div class="span4">
+          <h2><img class="bs-icon" src="../assets/img/nounproject/np_icon_photo2.svg"> <a href="#photonm">PHOTOS & MULTIMEDIA</a></h2>
+           <p>Some photo & video <b>journalism</b> work, some <b>commissioned</b> photography in <b>fashion</b>, <b>food</b>, and <b>dance</b>, and a small selection of <b>personal</b> shots. </p>
+          <!-- <p><a class="btn" href="pnm.html">View details &raquo;</a></p> -->
+       </div>
+        <div class="span4">
+          <h2><img class="bs-icon" src="../assets/img/nounproject/np_icon_words2.svg"> <a href="#words">WORDS</a></h2>
+          <p>Here you'll find journalism <b>clips</b>, artifacts from my ongoing efforts in <b>fiction</b> and <b>poetry</b>, and maybe some day, shameless <b>plugs.</b></p>
+          <!-- <p><a class="btn" href="">View details &raquo;</a></p> -->
+        </div>
+      </div> <!--/row-->
+
+      <hr>
+
+      <!-- Stacking like a good bootstrapper -->
+  <section id="about">
+  <div class="page-header">
+    <h1>WHO AM I? <small></small></h1>
+  </div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F46625456&show_artwork=true"></iframe>
+  <div class="row">
+  <p></p>
+  <div class="span7">
+  <p><h3>IF YOU DO NOT LIKE TEXT</h3> or if you do like sound, I made the above audio-essay as a self-introduction to my master's program in the summer of 2011, and it's still pretty accurate (although not entirely redundant with the brief bio below.)</p>
+<p><h3>IF YOU DO LIKE TEXT</h3> I was born in 1989 and farted around childhood and the internet for some 18 years before attending <b>Stanford University</b>.  While pursing my <b>B.S. in Symbolic Systems</b>, which interdisciplinary study of consciousness involved philosophy, psychology, linguistics, computer science and (particularly for me) no small amount of interface design, I realized that I was far less interested in "advancing my field" or "starting a company", than I was in engaging with people about the <b>broader human issues</b> my studies brought up.  I also realized that <b>datavisualizations</b> were a very big part of the very exciting future of journalism and I wanted to start making them as well as I possibly could.  So I tacked on an <b>M.A. in  Journalism</b>, and graduated in <b>June 2012</b>.</p>  
+<p>I've also been up to many <b>skill-and-character-and-career-building-very-professional-sounding things</b> besides, and if you're really interested in everything I can do (illustrator! video! poetry! portuguese! janis joplin impressions!), please, look at my resume. Over there.</p>
+<p>Also, I built this website in an incredibly short amount of time, if you're impressed with that kind of thing.  Mainly, I am impressed with Bootstrap.</p>
+  </div>
+  <div class="span5" background-color=#f5f5f5>
+  <h2>CONTACT<small> RFCIMA at GMAIL dot com</small></h2>
+  <h2><a href="../assets/resume2012.pdf">RESUME</a> / CV</h2></p>
+
+  </div>
+  </div> <!--row-->
+  </section>
+      <hr>
+
+<section id="dnd">
+<div class="page-header">
+<h1>DATA & DESIGN <small>COMING SOON</small></h1>
+</div>
+<h2></h2>
+
+
+</section>
+
+<section id="photonm">
+<div class="page-header">
+<h1>PHOTOS & MULTIMEDIA <small></small></h1>
+</div>
+<div class="row">
+<div class="span6">
+      <h2>Photo Journalism <small>COMING SOON</small></h2>
+      <p>Shots taken in the line-of-duty.  Click through to see the pieces they ran with.</p>
+      <ul class="thumbnails">
+        <li class="span4">
+          <a href="#" class="thumbnail">
+            <img src="http://placehold.it/360x268" alt="">
+          </a>
+        </li>
+        <li class="span2">
+          <a href="#" class="thumbnail">
+            <img src="http://placehold.it/160x120" alt="">
+          </a>
+        </li>
+        <li class="span2">
+          <a href="#" class="thumbnail">
+            <img src="http://placehold.it/160x120" alt="">
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="span4">
+      <h2>Multimedia Journalism</h2>
+      <p>Slideshows & videos.</p>
+      <iframe width="360" height="270" src="http://www.youtube.com/embed/878PNCiNpNA" frameborder="0" allowfullscreen></iframe></div>
+      <div class="span2">
+	<br/><br/><br/><h2>PAOLO BILKSTEIN <small>INTERVIEW</small></h2>
+	<p>Early work.  A short slideshow to accompany the highlights of an interview with Prof. Paolo Bilstein, founder of the <b>fab@schools</b> movement. Co-published with SF Gate & the Peninsula Press, October 2011.</p>
+	</div>
+    </div>
+
+<div class="row">
+    <div class="span6">
+	<ul class="thumbnails">
+        <li class="span2">
+          <a href="#" class="thumbnail">
+            <img src="http://placehold.it/160x120" alt="">
+          </a>
+	  <br>
+	  <a href="#" class="thumbnail">
+            <img src="http://placehold.it/160x120" alt="">
+          </a>
+        </li>
+        <li class="span4">
+          <a href="#" class="thumbnail">
+            <img src="http://placehold.it/360x268" alt="">
+          </a>
+        </li>
+	</ul>
+    </div>
+    <div class="span2">
+	<h2>GIUSEPPE SPADAFORA <small>INTERVIEW</small></h2>
+	<p>Unfinished video on the <b>Free Tea Bus</b>, which drives across the United States offering free tea and shelter to whomever wants it. I particularly like the outro. Spadafora was interviewed while parked in residential Palo Alto, May 2012.</p>
+    </div>
+    <div class="span4">
+    <iframe width="360" height="270" src="http://www.youtube.com/embed/uuYVqnotaKo" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+</div> <!-- row -->
+
+
+
+</section>
+
+<section id="words">
+<div class="page-header">
+<h1>WORDS <small>COMING SOON</small></h1>
+</div>
+</section>
+
+      <footer>
+        <p>&copy; Roseann Cima 2012</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+  </body>
+</html>
